@@ -25,7 +25,7 @@ fake-news-detection/
 
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/<your-username>/fake-news-detection.git
+git clone https://github.com/<varmaven>/fake-news-detection.git
 cd fake-news-detection
 
 # Install dependencies
